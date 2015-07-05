@@ -1,0 +1,51 @@
+/* Generic styles*/
+
+body { background: url("img/my360trips_bg.png") repeat-x scroll left 100px transparent; font: normal 10pt/16pt "Lucida Grande","Lucida Sans Unicode",Verdana,Arial,sans-serif; color: #333; margin: 0 }  
+
+a, a:visited {  text-decoration: none; color: #009ee0 }
+a:hover {  text-decoration: underline }
+
+ul { list-style: none; margin: 1em 0; padding: 0 0 0 15px }
+
+h1 { color: #000; font-size: 18pt; border-bottom: 1px dashed #ffc9ae; padding: 28px 0 4px; margin: 0 0 15px; line-height: 22pt }
+h2 { color: #653b23; font-size: 16pt; margin: 20px 0 10px; line-height: 20pt }
+h3 { color: #653b23; font-size: 14pt; margin: 17px 0 9px; line-height: 19pt }
+h4, h5, h6 { color: #009ee0; font-size: 12pt; margin: 20px 0 15px; line-height: 18pt }
+
+p { margin: 0.8em 0 }
+div { margin: 0 }
+
+img { border: none }
+
+/* Welcome page */
+
+.Intro { background: url("img/my360trips_bg.png") repeat-x scroll left top #d2e3ff }
+.Welcome {margin: 0 auto; text-align: center; width: 600px }
+.Welcome .mainContent { margin-top: 40px }
+
+
+/* Specific blocks */
+
+.header { background: url("img/city_header.png") repeat-x scroll left bottom transparent }
+.logo img { border: none; margin: 0 0 -28px }
+
+.navigation { font-size: 90%; color: #333; float: left; padding: 0; position: fixed; top: 180px; width: 236px }
+.navigation ul { margin: 0; padding: 0 5px 0 22px; border-top: 1px dashed #ccc }
+.navigation li { margin: 0; padding: 0; border-bottom: 1px dashed #ccc }
+.navigation li a, #navigation li a:visited { text-decoration: none; display: block; margin: 0; padding: 0 0.5em; color: #222 }
+.navigation li a:hover, .navigation li a.active { background-color: #fff; color: #009ee0 }
+
+.content { margin: 0 auto -30px 236px; padding: 30px 30px 60px; background-color: #fff; width: 60% }
+.content .pics div { display: inline-block; margin: 15px 19px 15px 0; border: 1px solid #aaa; padding: 3px; width: 120px; height: 100px  }
+.content .pics div img { width: 120px; height: 100px;  }
+
+.content .contact input { display: block; margin: 10px 0; border: 1px solid #aaa; color: #555555; padding: 4px; vertical-align: middle; width: 155px }
+.content .contact .label { margin-left: 15px; clear: left; float: left; height: 27px; line-height: 27px; width: 110px }
+.content .contactForm { width: 300px; margin: 10px 30px }
+.content .contact textarea { border: 1px solid #aaa; color: #555555;  height: 80px;  line-height: 13pt; margin-left: 15px; overflow: auto; padding: 4px 0px 4px 4px; width: 270px	 }
+.content .contact button { display: block; clear: both; margin: 10px 0 10px 250px }
+
+.siteMap { background: url("img/city_sitemap.png") repeat-x scroll left top transparent; text-align: center; padding: 50px 30px 30px }
+.siteMap ul {  display: inline-block; text-align: left; margin: 0 }
+
+.footer { background-color:#c5dbfc; color:#686868; font-size: 80%; text-align: center; margin: 0; padding: 10px 30px }
