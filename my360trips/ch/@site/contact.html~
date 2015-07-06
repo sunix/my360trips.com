@@ -2,37 +2,46 @@
 <html>
   <head>
     <link href="../../../nuxeo/site/skin/my360trips/my360trips.css" rel="stylesheet" type="text/css">
-    <title>My 360 trips - 聯繫我們 ~Contact us</title>
+    <title>My 360 trips - è¯ç¹«æå ~Contact us</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="icon" type="image/png" href="../../../nuxeo/site/skin/my360trips/img/favicon.png">
   </head>
   <body>
   <div class="header">
-   <a class="logo" href="../../../"><img alt="My 360 trips" src="../../../nuxeo/site/skin/my360trips/img/my360trips_logo.png"/></a>
+   <a class="logo" href="../../../my360trips.1.html"><img alt="My 360 trips" src="../../../nuxeo/site/skin/my360trips/img/my360trips_logo.png"/></a>
   </div>
   <div class="navigation">
     <ul>
-      <a href="../@site.html">誠摯的歡迎您</a></li>
+      <a href="../@site.html">èª æ¯çæ­¡è¿æš</a></li>
       <li>
         <ul>
-          <li> <a href="yourguide4personalizedtour.html">巴黎, 一位巴黎人的私房景點 ~ Your guide for a personalized tour of paris.</a></li>
-          <li> <a href="my360tripsextra.html">美麗旅程, 與您共遊 ~ my360trips extra : Discover France with us </a></li>
-          <li> <a href="free_hand_shopping.html">購物趣~free hand shopping </a></li>
-          <li> <a href="yourguide.html">您的旅遊指南 ~ Your guide</a></li>
-          <li> <a href="feedback.html">好評論~ Feedbacks</a></li>
-          <li> <a href="contact.html">聯繫我們 ~Contact us</a></li>
+        <ul>
+          <li> <a href="@site/yourguide4personalizedtour.html">巴黎, 一位巴黎人的私房景點 ~ Your guide for a personalized tour of paris.</a></li>
+          <li> <a href="@site/my360tripsextra.html">美麗旅程, 與您共遊 ~ my360trips extra : Discover France with us </a></li>
+          <li> <a href="@site/free_hand_shopping.html">購物趣~free hand shopping </a></li>
+          <li> <a href="@site/yourguide.html">您的旅遊指南 ~ Your guide</a></li>
+          <li> <a href="@site/feedback.html">好評論~ Feedbacks</a></li>
+          <li> <a href="@site/contact.html">聯繫我們 ~Contact us</a></li>
+        </ul>
+
+          <li> <a href="yourguide4personalizedtour.html">å·Žé», äžäœå·Žé»äººçç§æ¿æ¯é» ~ Your guide for a personalized tour of paris.</a></li>
+          <li> <a href="my360tripsextra.html">çŸéºæçš, èæšå±é ~ my360trips extra : Discover France with us </a></li>
+          <li> <a href="free_hand_shopping.html">è³Œç©è¶£~free hand shopping </a></li>
+          <li> <a href="æ%2582šç%259A%2584æ%2597%2585é%2581%258Aæ%258C%2587å%258D%2597.html">æšçæéæå ~ Your guide</a></li>
+          <li> <a href="å¥œè©%2595è«%2596~å¥œè¯%2584è®º.html">å¥œè©è«~ Feedbacks</a></li>
+          <li> <a href="è%2581¯ç¹«æ%2588%2591å%2580%2591-è%2581¯ç¹«æ%2588%2591å%2580%2591.html">è¯ç¹«æå ~Contact us</a></li>
         </ul>
       </li>
     </ul>
   </div>
 
   <div class="content">
-    <h1>聯繫我們 ~Contact us</h1>
+    <h1>è¯ç¹«æå ~Contact us</h1>
 <p>&nbsp;</p>
 <h2 class="western"><a name="result_box9"></a><a name="result_box8"></a></h2>
 <p><img style="float: left;" src="../../../nuxeo/nxfile/default/2727a733-9fd6-4fd3-98d4-31638b43e0b1/files:files/0/file/pont&#32;des&#32;arts.JPG" alt="" width="289" height="289" /></p>
 <p>&nbsp;</p>
-<p class="western"><span style="font-family: WenQuanYi Micro Hei;"><span lang="zh-CN"><span lang="zh-TW">有關巴黎的旅遊信息和服務</span></span></span><span lang="zh-TW">, </span><span style="font-family: WenQuanYi Micro Hei;"><span lang="zh-CN"><span lang="zh-TW">請</span>聯繫我們 </span></span>:</p>
+<p class="western"><span style="font-family: WenQuanYi Micro Hei;"><span lang="zh-CN"><span lang="zh-TW">æéå·Žé»çæéä¿¡æ¯åæå</span></span></span><span lang="zh-TW">, </span><span style="font-family: WenQuanYi Micro Hei;"><span lang="zh-CN"><span lang="zh-TW">è«</span>è¯ç¹«æå </span></span>:</p>
 <p style="text-align: center;"><a href="mailto:contact@my30trips.com"><span style="text-decoration: underline;">contact@my360trips.com</span></a></p>
 <p style="text-align: center;">&nbsp;</p>
 <p><span id="result_box" class="short_text" lang="zh-CN"><span><img style="display: block; float: left;" src="../../../nuxeo/nxfile/default/2727a733-9fd6-4fd3-98d4-31638b43e0b1/files:files/1/file/facebook_twitter_logo_combo1.png" alt="" width="82" height="60" /></span></span></p>
@@ -47,7 +56,7 @@
   <div class="siteMap">
     <div class="copyright">
       <p>
-        Copyright © 2010 My 360 trips.
+        Copyright Â© 2010 My 360 trips.
       </p>
     </div>
   </div>
